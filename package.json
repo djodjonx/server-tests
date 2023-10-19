@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "node": "node ./node-server.js",
+    "fastify": "node ./fastify-server.js",
+    "express": "node ./express-server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "fastify": "^4.24.2"
+  },
+  "volta": {
+    "node": "18.18.0",
+    "npm": "10.2.0"
+  }
+}
